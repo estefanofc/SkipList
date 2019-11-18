@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/main.cpp
+skiplist.h
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/skiplist.h
+iostream
+-
+sstream
+-
+
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/skiplist.cpp
+cassert
+-
+climits
+-
+cstdlib
+-
+iostream
+-
+skiplist.h
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/skiplist.h
+
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/skiplist.h
+iostream
+-
+

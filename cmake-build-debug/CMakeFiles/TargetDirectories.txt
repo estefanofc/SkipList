@@ -1,0 +1,3 @@
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/estefanofelipa/Desktop/CSSE 342/ass4/cmake-build-debug/CMakeFiles/ass4_skip_list.dir
