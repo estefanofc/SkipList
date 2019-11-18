@@ -1,5 +1,5 @@
 //
-// Created by Yusuf Pisan on 4/26/18.
+// Test Class
 //
 
 #include "skiplist.h"
